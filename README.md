@@ -1,3 +1,4 @@
+![Header](https://cdn.hashnode.com/res/hashnode/image/upload/v1675314488994/e8c2e43e-d77e-49cf-89e0-c80961c745c4.png)
 <h1 align="center">Hi 👋, I'm Suruthi</h1>
 <h3 align="center">A passionate AL/ML developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg">
